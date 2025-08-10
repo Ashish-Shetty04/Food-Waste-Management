@@ -2,24 +2,27 @@
 
 ## 📌 Overview
 The Food Waste Management System is a web-based platform designed to connect donors, NGOs, and delivery partners to reduce food wastage. It allows users to donate leftover food, track deliveries, and manage feedback. This system is suitable for restaurants, individuals, and organizations who want to contribute to reducing hunger and food waste.
+
 ---
 
 ## 🚀 Features
--User Authentication – Sign up, login, and manage profiles.
--Food Donation Form – Submit details about food donations.
--Admin Panel – Manage donations, users, and feedback.
--Delivery Management – Track and manage food delivery.
--Feedback System – Collect and store user feedback.
--Chatbot – Provide quick guidance to users.
--Analytics – View donation statistics.
+- User Authentication – Sign up, login, and manage profiles.   
+- Food Donation Form – Submit details about food donations.     
+- Admin Panel – Manage donations, users, and feedback.   
+- Delivery Management – Track and manage food delivery.    
+- Feedback System – Collect and store user feedback.   
+- Chatbot – Provide quick guidance to users.   
+- Analytics – View donation statistics.   
 
 ---
 
 ## 🛠️ Tech Stack
--Frontend: HTML, CSS, JavaScript
--Backend: PHP
--Database: MySQL
--Other: SQL scripts for table setup
+- Frontend: HTML, CSS, JavaScript    
+- Backend: PHP   
+- Database: MySQL   
+- Other: SQL scripts for table setup
+
+---
 
 ## 📂 Project Structure
 ```plaintext
@@ -61,10 +64,24 @@ food-waste-management-system-main/
 ## Screenshots
 
 ### Homepage
-![Homepage Screenshot](food-waste-management-system-main/img/home.png)
+![HomePage](food-waste-management-system-main/img/home.png)  
+
+### AdminPage
+![AdminPage](food-waste-management-system-main/img/Admin.jpg) 
+
+### Delivery
+![Delivery](food-waste-management-system-main/img/Delivery_module.jpg)  
+
+<p align="center">
+  <img src="food-waste-management-system-main/img/delivery.gif" alt="Delivery">
+</p>
+
+---
 
 ## 🤝 Contribution
 Feel free to fork this repository, make improvements, and create a pull request.
+
+---
 
 ## 📜 License
 This project is licensed under the [MIT License](LICENSE).
