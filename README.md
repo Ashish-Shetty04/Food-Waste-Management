@@ -56,5 +56,4 @@ food-waste-management-system-main/
 ---
 
 ## 📜 License
-This project is open-source under the MIT License.
-[MIT](https://choosealicense.com/licenses/mit/)
+This project is licensed under the [MIT License](LICENSE).
