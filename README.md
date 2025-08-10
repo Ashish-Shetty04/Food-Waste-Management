@@ -1,11 +1,9 @@
 Food Waste Management System
 
 📌 Overview
-
 The Food Waste Management System is a web-based platform designed to connect donors, NGOs, and delivery partners to reduce food wastage. It allows users to donate leftover food, track deliveries, and manage feedback. This system is suitable for restaurants, individuals, and organizations who want to contribute to reducing hunger and food waste.
 
 🚀 Features
-
 User Authentication – Sign up, login, and manage profiles.
 Food Donation Form – Submit details about food donations.
 Admin Panel – Manage donations, users, and feedback.
@@ -15,7 +13,6 @@ Chatbot – Provide quick guidance to users.
 Analytics – View donation statistics.
 
 🛠️ Tech Stack
-
 Frontend: HTML, CSS, JavaScript
 Backend: PHP
 Database: MySQL
